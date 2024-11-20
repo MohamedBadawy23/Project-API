@@ -1,0 +1,60 @@
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.deps.json
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.dll
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.AssemblyReference.cache
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfo.cs
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.CopyComplete
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\refint\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G05\Talabat.Respository\obj\Debug\net6.0\ref\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.deps.json
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.AssemblyReference.cache
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfo.cs
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.CopyComplete
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\refint\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G04\Talabat.Respository\obj\Debug\net6.0\ref\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.deps.json
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.pdb
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.AssemblyReference.cache
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfoInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfo.cs
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.CoreCompileInputs.cache
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\refint\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.pdb
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\ref\Talabat.Respository.dll
+D:\.Net C40\Projects\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat..392C3267.Up2Date
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.deps.json
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.dll
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Respository.pdb
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.dll
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\bin\Debug\net6.0\Talabat.Core.pdb
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.AssemblyReference.cache
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfoInputs.cache
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.AssemblyInfo.cs
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.csproj.CoreCompileInputs.cache
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat..392C3267.Up2Date
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.dll
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\refint\Talabat.Respository.dll
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\Talabat.Respository.pdb
+C:\Users\t\OneDrive\Desktop\Talabat Solution G04 - Copy\Talabat Solution G04 - Copy\Talabat.Respository\obj\Debug\net6.0\ref\Talabat.Respository.dll
